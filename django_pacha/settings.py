@@ -140,4 +140,4 @@ if not DEBUG:
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 # cors authorization
-CORS_ALLOWED_ORIGINS = ["http://localhost:5173", "https://webpacha.netlify.app", "https://frolicking-crostata-90b56a.netlify.app/"]
+CORS_ALLOWED_ORIGINS = ["http://localhost:5173", "https://webpacha.netlify.app", "https://frolicking-crostata-90b56a.netlify.app"]
